@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Adamina&display=swap');
+
+* {
+    font-family: "Adamina", cursive;
+}
+
+body {
+    background-color:rgb(136, 197, 197);
+}
+
+h1 {
+    color :snow
+}
+
+.gambar-saya {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.gambar {
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    border-radius: 50%;
+    margin: auto;
+}
+
+.halo {
+    font-size: 25px;
+    font-weight: 100;
+}
+
+.sosmed {
+    font-size: 25px;
+    line-height: 50px;
+    font-weight: 100;
+}
+
+.pendidikan {
+    font-size: 25px;
+    font-weight: 100;
+}
+
+.pengalaman {
+    font-size: 25px;
+    font-weight: 100;
+}
+
+.inspirasi {
+    font-size: 25px;
+    font-weight: 100;
+}
+
+.halo {
+    max-width: 1000px;
+    width: 1200px;
+}
+
+.pendidikan {
+    max-height: 120px;
+    height: 150px;
+}
+
+.sosmed {
+    max-height: 270px;
+    height: 290px;
+}
+
+.halo {
+    max-height: 150px;
+    height: 170px;
+}
+
+.pengalaman {
+    max-height: 1px;
+    height: 20px;
+}
+
+.inspirasi {
+    max-height: 200px;
+    height: 250px;
+}
+
+:root {
+    --warnaputih:rgb(82, 176, 212);
+}
+
+.judul-1 {
+    background-color: var(--warnaputih);
+    padding-left: 45%;
+}
+
+.judul-2 {
+    background-color: var(--warnaputih);
+    padding-left: 45%;
+}
+
+.judul-3 {
+    background-color: var(--warnaputih);
+    padding-left: 45%;
+}
+
+.judul-4 {
+    background-color: var(--warnaputih);
+    padding-left: 45%;
+}
+
+.judul-5 {
+    background-color: var(--warnaputih);
+    padding-left: 45%;
+}
+
+.judul-6 {
+    background-color: var(--warnaputih);
+    padding-left: 45%;
+}
